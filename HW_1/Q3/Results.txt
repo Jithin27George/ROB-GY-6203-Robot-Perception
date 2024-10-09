@@ -1,0 +1,20 @@
+jithin@jithin-VivoBook-ASUSLaptop-M1603QA-M1603QA:~/Desktop/AprilTag$ /bin/python3 /home/jithin/Desktop/AprilTag/Q3.py
+(4000, 4000)
+
+Processing images from: /home/jithin/Desktop/AprilTag/calibimg_1mtr
+
+Case 1: Camera matrix (K):
+ [[3.31207676e+03 0.00000000e+00 1.99785473e+03]
+ [0.00000000e+00 3.31227923e+03 1.51266554e+03]
+ [0.00000000e+00 0.00000000e+00 1.00000000e+00]]
+Case 1: Distortion coefficients (d): [ 1.06953067e-02  1.21634329e+00 -4.18982616e-04 -1.03888267e-03
+ -6.09835313e+00]
+
+Processing images from: /home/jithin/Desktop/AprilTag/calibimg_1_2mtr
+No markers detected in image IMG_0187.jpg
+
+Case 2: Camera matrix (K):
+ [[3.28189532e+03 0.00000000e+00 1.96178639e+03]
+ [0.00000000e+00 3.26287780e+03 1.54649719e+03]
+ [0.00000000e+00 0.00000000e+00 1.00000000e+00]]
+Case 2: Distortion coefficients (d): [ 0.06594108  0.09081337  0.00118874  0.00112097 -0.89241043]
